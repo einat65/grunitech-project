@@ -1,0 +1,50 @@
+body {
+    background-color: #e7dfdd;
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace
+}
+
+.image{
+    border: solid black 2px;
+    box-shadow: 8px 6px 5px -5px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 8px 6px 5px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 8px 6px 5px -5px rgba(0,0,0,0.75);
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.cell-border{
+    border:1px solid black;
+}
+
+.cell-left{
+    border-left: 1px solid black;
+}
+
+.cell-right{
+    border-bottom: 1px solid black;
+}
+
+.icon-star{
+    width: 1rem;
+}
+
+.kingergarten-row{
+    background-color: antiquewhite;
+}
+
+.school-1-row{
+    background-color: aquamarine;
+}
+
+.school-2-row{
+    background-color: rgb(16, 143, 101);
+}
+
+.row-all{
+    background-color: rgb(39, 41, 180);
+}
